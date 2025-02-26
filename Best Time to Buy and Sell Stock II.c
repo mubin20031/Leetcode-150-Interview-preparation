@@ -1,3 +1,4 @@
+//renaming the commit message
 int maxProfit(int* prices, int pricesSize) {
     int ans = 0;
     if (pricesSize < 2)
