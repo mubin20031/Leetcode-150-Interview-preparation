@@ -1,3 +1,4 @@
+//Renaming the commit message
 int removeElement(int* nums, int numsSize, int val) {
     int index = 0;
 
